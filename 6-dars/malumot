@@ -1,0 +1,4 @@
+ozgaruvcilar malumot saklaydi. Har qanday ism, yosh, email, telefon raqamlarni saqlash uchun ishlatiladi.
+let var ikkalasi bir biriga oxshash. ikkalasi ham ozgartirsa boladi malumotini.
+constda esa ozgartirish mumkin emas. constni ishlatishdan maqsad malumot o'zgarmasligini ta'minlashdir.
+oxirida komintarilar
