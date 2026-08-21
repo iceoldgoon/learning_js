@@ -1,0 +1,4 @@
+jsni 3 xil usulda yozish mumkin:
+1 htmlda head tag icida script tag ichida yozish mumkin
+2 htmlda body tag ichida script tag ichida yozish mumkin
+3 alohida js fayl ochib uni htmlda script tag src atribut orqali ulash mumkin
