@@ -1,0 +1,9 @@
+data turlari
+
+number bu sonlardan iborat bolgan malumot turlari. Son hatoki infinity yoki nan bolsa ham.
+string bu qoshtirnoq icida yozilgan matnlarni. qoshtirnoq ikta yoki bitta bolishi mumkin bu axamiyati yoq.
+boolean bu true / false qiymat. Bu mantiqiy qiymat. masalan 2 3 dan katta bolsa turue boladi aks holda false boladi.
+null bu hec qanday qiymatga ega bolmagan malumot turi. 0 ga teng.
+undefined bu malumot turi hech qanday qiymatga ega bolmagan malumot turi. Lekn malumot turi mavjud. ammo qiymat mavjud emas.
+object bu tepadagi barca malumot turlarini oz iciga oladi, hamda array sanalar.
+symbol ................
