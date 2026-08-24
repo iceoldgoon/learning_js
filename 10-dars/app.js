@@ -21,7 +21,7 @@ let email = ' islomjon@gmail.com '
 // console.log(result)
 
 // let result = email.trim()
-// console.log(result.length, email.length)
+//  console.log(result.length, email.length)
 
 // let result = email.split('')
 // console.log(result)
