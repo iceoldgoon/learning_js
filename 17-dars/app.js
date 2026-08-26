@@ -8,6 +8,5 @@ let natija = '100'
 
 // console.log(typeof result)
 
-// let result = Number('hello')
-
+// let result = Number('hello');
 // console.log(result)
